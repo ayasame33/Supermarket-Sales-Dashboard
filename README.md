@@ -1,4 +1,4 @@
-# Supermarket Sales Dashboard 🛒
+# Supermarket Sales Dashboard 
 
 Interactive Excel dashboard for analyzing sales performance, tracking KPIs, and generating insights.
 
